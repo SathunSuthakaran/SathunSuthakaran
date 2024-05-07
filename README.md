@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Sathun Suthakaran 👋
 
+2B Computer Science & Finance @ University of Waterloo
+
+Prev Software @ BMO
+
+Currently working on quantitative analysis
+
+Hit me up to chat!
 <!--
 **SathunSuthakaran/SathunSuthakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

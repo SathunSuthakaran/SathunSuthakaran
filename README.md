@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **pandas, web-development, algorithms**
 
-- ⚡ Fun fact **I have a 1400 and climbing rating in chess!**
+- ⚡ Fun fact **I have a 1500 and climbing rating in chess!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
